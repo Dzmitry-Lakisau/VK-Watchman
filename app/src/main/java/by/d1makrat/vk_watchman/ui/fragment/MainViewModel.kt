@@ -1,4 +1,4 @@
-package by.d1makrat.vk_watchman.ui.main
+package by.d1makrat.vk_watchman.ui.fragment
 
 import android.arch.lifecycle.ViewModel
 
